@@ -1,0 +1,42 @@
+.about{
+    background-image:linear-gradient(to right, rgb(253 226 205) 0%, rgb(255 152 82) 100%);
+    height: 10vh;
+}
+.card{
+    height: 23rem;
+}
+.bg{
+    background: #f4670812;
+}
+/* .card{
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+} */
+/*user profile*/
+.bttn{
+    background-color: rgb(255 152 82);
+    color: black;
+    border-radius: 5px;
+    border: none;
+    height: 5vh;
+    width: 8vw;
+}
+.abt{
+    background-color:rgb(244, 139, 70) ;
+}
+.side {
+    background-color: #f4670812;
+}
+.det{
+    color: rgb(244, 101, 7);
+}
+.bgcolor{
+    background-color: #f4670812;
+}
+.order{
+    height: 10vh;
+}
+.wish{
+    color: rgb(244, 101, 7);
+    background-color: #f4670812;
+    height: 10vh;
+}
