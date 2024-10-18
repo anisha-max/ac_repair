@@ -6,7 +6,9 @@
   
 }
 
-
+body {
+  overflow-x: hidden !important;
+}
 
 .sidebar{
 height: 100vh;
