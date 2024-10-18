@@ -159,7 +159,7 @@ background-color: rgb(244, 101, 7);
     }
 
     .main-footer{
-        background-color: #fffbfb;
+        background-color: linear-gradient(to right, rgb(253 226 205) 0%, rgb(255 152 82) 100%);
 
     }
 
