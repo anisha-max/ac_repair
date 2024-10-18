@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 * {
   padding: 0;
@@ -6,14 +6,15 @@
 }
 
 
-.about{
-=======
+
 .sidebar{
 height: 100vh;
 position: fixed;
 flex-shrink: 0;
-}.about{
->>>>>>> d6f030502a99eb502a98a8bfaa6494dd5d8e83ef
+}
+
+.about{
+
     background-image:linear-gradient(to right, rgb(253 226 205) 0%, rgb(255 152 82) 100%);
     height: 10vh;
 }
