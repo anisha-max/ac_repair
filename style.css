@@ -10,7 +10,9 @@ body {
   overflow-x: hidden !important;
 }
 
-
+ .main-footer {
+  background-image: linear-gradient(rgb(244, 139, 70), white);
+}
 
 .about{
 
