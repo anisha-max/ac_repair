@@ -10,20 +10,17 @@ body {
   overflow-x: hidden !important;
 }
 
-.sidebar{
-height: 100vh;
-position: fixed;
-flex-shrink: 0;
-}
+
 
 .about{
 
     background-image:linear-gradient(to right, rgb(253 226 205) 0%, rgb(255 152 82) 100%);
     height: 10vh;
 }
-.card-about{
-    height: 23rem;
-}
+/* .card-about{
+    height: 30rem;
+} */
+
 .bg{
     background: #f4670812;
 }
@@ -162,7 +159,7 @@ background-color: rgb(244, 101, 7);
     }
 
     .main-footer{
-        background-color: linear-gradient(to right, rgb(253 226 205) 0%, rgb(255 152 82) 100%);
+      background-image: linear-gradient(rgb(244, 139, 70), white);
 
     }
 
